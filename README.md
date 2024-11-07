@@ -1,4 +1,4 @@
-JSON to HTML Table Converter
+JSON to HTML Table Converter\\
 This repository contains a JavaScript module (json2html.js) that converts a given array of objects into an HTML table. The module can be used to display data in a structured table format with columns such as Name, Age, and Gender.
 
 Features
